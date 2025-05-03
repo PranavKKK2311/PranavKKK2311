@@ -48,20 +48,7 @@
 
 ---
 
-### 🛰️ Floating Cloud SVG (Because why not)
+<!-- GitHub-Friendly SVG Wave -->
+<img src="https://raw.githubusercontent.com/PranavKKK2311/assets/main/wave-bottom.svg" alt="wave" width="100%" />
+<img src="https://raw.githubusercontent.com/kognise/water.css/master/static/img/wave.svg" alt="wave" width="100%" />
 
-
-<!-- Copy this into your README using an <img> or <svg> tag for movement flair -->
-<svg width="100%" height="120px" viewBox="0 0 100 100" preserveAspectRatio="none">
-  <path d="M0,50 C30,90 70,10 100,50 L100,100 L0,100 Z" fill="#7f1d1d" opacity="0.6">
-    <animate attributeName="d" dur="5s" repeatCount="indefinite"
-      values="M0,50 C30,90 70,10 100,50 L100,100 L0,100 Z;
-              M0,50 C20,80 80,20 100,50 L100,100 L0,100 Z;
-              M0,50 C30,90 70,10 100,50 L100,100 L0,100 Z" />
-  </path>
-</svg>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PranavKKK2311&label=Profile+Views&color=22c55e&style=flat" alt="Profile Views" />
-  <img src="https://badges.pufler.dev/visits/PranavKKK2311/PranavKKK2311?color=7f1d1d" alt="Visitor badge" />
-</p>
