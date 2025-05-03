@@ -50,7 +50,7 @@
 
 ### 🛰️ Floating Cloud SVG (Because why not)
 
-```html
+
 <!-- Copy this into your README using an <img> or <svg> tag for movement flair -->
 <svg width="100%" height="120px" viewBox="0 0 100 100" preserveAspectRatio="none">
   <path d="M0,50 C30,90 70,10 100,50 L100,100 L0,100 Z" fill="#7f1d1d" opacity="0.6">
