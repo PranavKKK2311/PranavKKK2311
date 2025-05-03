@@ -1,38 +1,67 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pranav Karthikeyan Aiyyer
-=================================================================================================================================================
-
-i know coding and some chocolate predominantly i focus on ai and ml related stuff i reckon.
-
-* 🌍  I'm based in India and the Middle East
-* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/pranav-k-8313a6280/)
-* ✉️  You can contact me at [pranavaiyyer2311@gmail.com](mailto:pranavaiyyer2311@gmail.com)
-* 🧠  I'm learning RAG
-* 🤝  I'm open to collaborating on Activation Function related ML projects
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<!-- Banner GIF -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Pranav+Aiyyer!;I+build+ML+and+AI+things.;RAG+%F0%9F%94%A5+Deep+Learning+%F0%9F%92%AA+Activation+Fn+Nerd+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
+<!-- Profile Description -->
+<h1 align="center">Hi there 👋 I'm Pranav Karthikeyan Aiyyer</h1>
+<p align="center">🇮🇳 Based in India & Middle East • 🧠 AI/ML-focused • 🍫 Coder & Chocolate Enthusiast</p>
 
-### Socials
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36"/>
+</p>
 
-<p align="left"> <a href="https://www.github.com/PranavKKK2311" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/pranav-k-8313a6280/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+---
 
-### Badges
+### 🧠 About Me
 
-<b>My GitHub Stats</b>
+- 🔍 Currently diving into: **Retrieval-Augmented Generation (RAG)**
+- 🤖 I like: **TensorFlow, PyTorch, Deep Learning frameworks**
+- 🤝 Open to collabs on **activation function optimization** and **neuro-symbolic stuff**
+- 🌐 Portfolio: [LinkedIn](http://www.linkedin.com/in/pranav-k-8313a6280/)
+- 📫 Contact: [pranavaiyyer2311@gmail.com](mailto:pranavaiyyer2311@gmail.com)
 
-<a href="http://www.github.com/PranavKKK2311"><img src="https://github-readme-stats.vercel.app/api?username=PranavKKK2311&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=facc15&icon_color=facc15&bg_color=7f1d1d&hide_border=true&show_icons=true" alt="PranavKKK2311's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/PranavKKK2311"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavKKK2311&stroke=facc15&background=7f1d1d&ring=22c55e&fire=22c55e&currStreakNum=facc15&currStreakLabel=22c55e&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+### 🔧 Tools & Tech
 
-<a href="http://www.github.com/PranavKKK2311"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=PranavKKK2311&bg_color=7f1d1d&color=facc15&line=facc15&point=facc15&area_color=7f1d1d&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,angular,html,css,fastapi,flask,django,mongodb,mysql,git,github,vscode,raspberrypi,arduino,pytorch,tensorflow" />
+</p>
 
-<a href="https://github.com/PranavKKK2311" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavKKK2311&langs_count=10&title_color=22c55e&text_color=facc15&icon_color=facc15&bg_color=7f1d1d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-<b>Top Repositories</b>
+### 📈 GitHub Stats & Activity
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PranavKKK2311&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavKKK2311&theme=radical&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PranavKKK2311&theme=rogue&bg_color=1a1b27&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavKKK2311&langs_count=10&layout=compact&theme=radical&hide_border=true" width="40%"/>
+</p>
+
+---
+
+### 🛰️ Floating Cloud SVG (Because why not)
+
+```html
+<!-- Copy this into your README using an <img> or <svg> tag for movement flair -->
+<svg width="100%" height="120px" viewBox="0 0 100 100" preserveAspectRatio="none">
+  <path d="M0,50 C30,90 70,10 100,50 L100,100 L0,100 Z" fill="#7f1d1d" opacity="0.6">
+    <animate attributeName="d" dur="5s" repeatCount="indefinite"
+      values="M0,50 C30,90 70,10 100,50 L100,100 L0,100 Z;
+              M0,50 C20,80 80,20 100,50 L100,100 L0,100 Z;
+              M0,50 C30,90 70,10 100,50 L100,100 L0,100 Z" />
+  </path>
+</svg>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PranavKKK2311&label=Profile+Views&color=22c55e&style=flat" alt="Profile Views" />
+  <img src="https://badges.pufler.dev/visits/PranavKKK2311/PranavKKK2311?color=7f1d1d" alt="Visitor badge" />
+</p>
