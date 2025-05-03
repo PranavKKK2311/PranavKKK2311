@@ -49,6 +49,7 @@
 ---
 
 <!-- GitHub-Friendly SVG Wave -->
-<img src="https://raw.githubusercontent.com/PranavKKK2311/assets/main/wave-bottom.svg" alt="wave" width="100%" />
-<img src="https://raw.githubusercontent.com/kognise/water.css/master/static/img/wave.svg" alt="wave" width="100%" />
+<img src="https://i.imgur.com/lX8l1Nf.gif" width="100%" alt="floating clouds banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlign=50&fontColor=fff&desc=I%20build%20AI%20things%20and%20snack%20on%20chocolate.&descSize=20&descAlign=50"/>
+
 
