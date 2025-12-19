@@ -18,7 +18,7 @@
 - 🔍 Currently diving into: **Retrieval-Augmented Generation (RAG)**
 - 🤖 I like: **TensorFlow, PyTorch, Deep Learning frameworks**
 - 🤝 Open to collabs on **activation function optimization** and **neuro-symbolic stuff**
-- 🌐 Portfolio: [LinkedIn](http://www.linkedin.com/in/pranav-k-8313a6280/)
+- 🌐 Portfolio: [LinkedIn](https://www.linkedin.com/in/pranav-karthikeyan-godwillhelpme/)
 - 📫 Contact: [pranavaiyyer2311@gmail.com](mailto:pranavaiyyer2311@gmail.com)
 
 ---
